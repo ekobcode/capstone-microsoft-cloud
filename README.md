@@ -2,4 +2,5 @@
 
 Capstone Microsoft Studi Independen Cloud Fundamental
 
-ini adalah file moodle dari serve
+Name : Eko Budiarto
+Email: ekobocode@gmail.com
